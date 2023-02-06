@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Git/COMPAS-git"
+		},
+		{
+			"path": "../../Loop/COMPAS-lb"
+		}
+	],
+	"settings": {}
+}
