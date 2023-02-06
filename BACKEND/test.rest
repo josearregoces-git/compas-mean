@@ -1,0 +1,32 @@
+###
+GET http://localhost:3200/api/employees
+
+###
+GET http://localhost:3200/api/employees/
+
+###
+POST http://localhost:3200/api/employees
+Content-Type: application/json
+
+{
+    "name": "Steve",
+    "dni": "456",
+    "email": "steven@example.com",
+    "phone": "1004777890",
+    "position": "ingenier",
+    "domain": "datacenters",
+    "spoa": "steve456",
+    "status": "Active"
+}
+
+###
+PUT http://localhost:3200/api/employees/
+Content-Type: application/json
+
+{
+    
+    
+}
+
+###
+DELETE http://localhost:3200/api/employees/

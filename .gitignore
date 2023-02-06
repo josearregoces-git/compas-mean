@@ -1,0 +1,13 @@
+/Backend/node_modules
+/Frontend/.angular
+/Frontend/.vscode
+/Frontend/node_modules
+/Frontend/dist
+/Frontend/tmp
+/Frontend/out-tsc
+/Frontend/bazel-out
+/Frontend/.sass-cache/
+/Frontend/connect.lock
+/Frontend/coverage
+/Frontend/libpeerconnection.log
+/Frontend/typings
